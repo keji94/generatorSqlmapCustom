@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mybatis-generator-plus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-generator-plus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mybatis-generator/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

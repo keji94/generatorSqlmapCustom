@@ -63,5 +63,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="generator" level="project" />
+    <orderEntry type="library" name="mybatis-generator-plus" level="project" />
+    <orderEntry type="library" name="mybatis-generator-1.3.5-plus" level="project" />
   </component>
 </module>
